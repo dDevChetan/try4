@@ -3,3 +3,12 @@ readme.doc
 #/test folder/
 
 **/*/*.class
+
+**/*.bk
+
+**/*.exe
+
+!do1.exe
+
+**/*.jar
+
